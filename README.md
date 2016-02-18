@@ -1,2 +1,2 @@
 # Arduino
-my code for Arduino and peripherals
+My code for Arduino and peripherals
